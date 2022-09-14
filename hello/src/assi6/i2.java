@@ -3,7 +3,7 @@ package assi6;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class l2 {
+public class i2 {
 
 	public static void main(String[] args) {
 		LinkedList<Integer> l=new LinkedList<Integer>();

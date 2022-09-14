@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class l3 {
+public class i3 {
 
 	public static void main(String[] args) {
 		LinkedList<Integer> l=new LinkedList<Integer>();
