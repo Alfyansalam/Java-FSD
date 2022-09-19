@@ -13,10 +13,8 @@ public class i3 {
 		l.add(2);
 		l.add(3);
 		Collections.reverse(l);
-		 ListIterator i= l. listIterator(1);
-		while(i.hasNext())
-			System.out.println(i.next());
-
+		 
+		l.forEach(i->System.out.println(i));
 	}
 
 }
